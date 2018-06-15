@@ -1,0 +1,7 @@
+author: 'Christopher Baker'
+dependencies:
+  - https://github.com/bitovi-stackstorm-exchange/bitovi_packs
+description: 'pack description'
+email: christopher@hmudesign.com
+name: st2_test
+version: 0.1.0
